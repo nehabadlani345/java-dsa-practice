@@ -22,7 +22,6 @@
 - [x] Problem 4: 3sum
 - [x] Problem 5: Trapping rain water
 
-
 ### Strings
 - [x] Problem 1: Is subsequence
 - [x] Problem 2: valid Palindrome
