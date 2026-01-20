@@ -16,11 +16,11 @@
 
 
 ### Two Pointers
-- [x] Problem 1: Container with most water
+- [x] Problem 1: Container with most water (https://leetcode.com/problems/container-with-most-water/description/)
 - [x] Problem 2: Merge Sorted Array
 - [x] Problem 3: Two sum 2-Input Array is sorted
 - [x] Problem 4: 3sum
-- [x] Problem 5: Trapping rain water
+- [x] Problem 5: Trapping rain water (https://leetcode.com/problems/trapping-rain-water/)
 
 ### Strings
 - [x] Problem 1: Is subsequence
